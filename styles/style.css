@@ -122,8 +122,7 @@
 
 /* Таблица, блок digits */
 .digits {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  margin-bottom: 100px;
   display: flex;
   flex-direction: column;
   align-items: center;
